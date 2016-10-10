@@ -1,5 +1,4 @@
 # The Banana Challenge
-This challenge was given by KualaLumpurJS
 
 ## Description
 
